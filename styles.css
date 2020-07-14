@@ -1,0 +1,17 @@
+* {
+    background-color: #000000;
+}
+
+terminal {
+    color: #ff0000;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: pre-wrap;
+}
+
+#ruler {
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    visibility: hidden; white-space: nowrap;
+    white-space: pre-wrap;
+}
